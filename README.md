@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Syahandhika
+- 👀 I’m interested in Android Apps Development
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me? Maybe Not Now ;)
