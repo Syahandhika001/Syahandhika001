@@ -7,7 +7,7 @@ Aiming for **Frontend Developer** and **Data Analyst** roles. I build clean UIs 
 ## 🔗 Links
 
 * ✉️ Email: **[dhika.farizi@gmail.com](mailto:dhika.farizi@gmail.com)**
-* 📍 Bandung, Indonesia
+* 📍 Bekasi, Indonesia | Bandung, Indonesia
 
 ---
 
